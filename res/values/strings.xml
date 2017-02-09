@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="app_name">向我开炮</string>
+<string name="results_format">
+    打炮次数:%1$d\n用时:%2$.1f</string>
+    <string name="reset_game">重来</string>
+<string name="win">你赢了，还想怎样! </string>
+<string name="lose">对不起你输了! </string>
+ <string name="action_settings">设置</string>
+<string name="time_remaining_format">
+还剩: %.1f 秒</string>
+</resources>
